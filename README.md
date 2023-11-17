@@ -12,7 +12,6 @@ This repository contains the source code and documentation for simulating the TC
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Simulation Details](#simulation-details)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -27,6 +26,7 @@ This repository contains the source code and documentation for simulating the TC
 
 - C Compiler (eg.GCC.,)
 - XGraph for plotting
+- Create an input.txt file containing binary data
 
 ## Getting started
 
@@ -46,7 +46,7 @@ This repository contains the source code and documentation for simulating the TC
 4. Run output.xg file using XGraph
    
      - ./xgraph output.xg
-     - 
+
 ## Usage
 
 - Follow the prompts in the client terminal to simulate the transmission of packets and observe the congestion window evolution.
