@@ -33,6 +33,8 @@ This repository contains the source code and documentation for simulating the TC
 1. Compile the server and client programs in terminal:
    
     gcc server.c -o server
+
+
     gcc client.c -o client
    
 3. Run the server and client on separate terminals:
