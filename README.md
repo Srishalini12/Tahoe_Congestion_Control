@@ -56,4 +56,3 @@ This repository contains the source code and documentation for simulating the TC
 
 - The simulation mimics the TCP Tahoe Congestion Control algorithm, including slow start, congestion avoidance, and fast retransmit.
 - Server and client programs communicate over a simulated network, adjusting the congestion window size dynamically.
-
