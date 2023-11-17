@@ -30,6 +30,8 @@ This repository contains the source code and documentation for simulating the TC
 
 ## Getting started
 
+Download all provided files in a common directory and run.
+
 1. Compile the server and client programs in terminal:
    
     gcc server.c -o server
