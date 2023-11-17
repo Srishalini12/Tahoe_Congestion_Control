@@ -1,9 +1,15 @@
 # Tahoe_Congestion_Control
 Simulation of TCP Congestion Window increase of Tahoe using socket programming in C
 
-**TCP Tahoe:**
->   TCP Tahoe, a congestion control algorithm, plays a pivotal role in maintaining network stability and performance.
-> The algorithm encompasses two primary phases: slow start and congestion avoidance.
-> During slow start, the congestion window size begins modestly and experiences exponential growth for each received acknowledgment.
-> Subsequently, the congestion avoidance phase ensues, characterized by a linear increase in the congestion window.
+## Overview
+
+This repository contains the source code and documentation for simulating the TCP Tahoe Congestion Control algorithm using socket programming in the C language. The project consists of server and client programs that communicate over a simulated network, implementing key aspects of TCP Tahoe's congestion control mechanism.
+
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Simulation Details](#simulation-details)
+- [Contributing](#contributing)
 
